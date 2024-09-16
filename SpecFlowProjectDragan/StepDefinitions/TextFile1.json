@@ -1,0 +1,18 @@
+﻿{
+	"id": 1652432,
+	"category": {
+		"id": 0,
+		"name": "string"
+	},
+	"name": "doggie Dragan",
+	"photoUrls": [
+		"string"
+	],
+	"tags": [
+		{
+			"id": 0,
+			"name": "string"
+		}
+	],
+	"status": "available"
+}
